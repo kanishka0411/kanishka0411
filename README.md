@@ -1,3 +1,4 @@
+<img src="welcome.gif" width="100%" alt="Welcome to my profile!">
 ## Hi there 👋
 
 <!--
