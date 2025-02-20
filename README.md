@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Aesthetic Coding GIF" width="300" />
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Aesthetic Flowing GIF" width="500" />
 </p>
+
 
 <h1 align="center">Hi, I'm Kanishka 👋</h1>                                                     
 
