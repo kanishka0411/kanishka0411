@@ -28,4 +28,4 @@
 </p>
 
 ## 📊 Most Used Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishka0411&layout=compact&theme=radical&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishka0411&layout=compact&theme=radical&hide=javascript&exclude_repo=repo1,repo2&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
