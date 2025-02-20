@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/xT39D7ubkIUIrgX4lG/giphy.gif" alt="Aesthetic Flowing Colors GIF" width="700" />
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Aesthetic Flowing Colors GIF" width="700" />
 </p>
 
 
