@@ -9,17 +9,9 @@
 
 
 ## 🔗 Let's Connect
-<p align="center">
-  <a href="https://x.com/kanishka0411k">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a> &nbsp;
-  <a href="https://www.linkedin.com/in/kanishka-86b279299/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>&nbsp;
-  <a href="https://github.com/kanishka0411">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+&nbsp;&nbsp;[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/kanishka0411k)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishka-86b279299/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kanishka0411)
 
 
 
