@@ -4,14 +4,6 @@
 - 🌱 Currently learning **MERN Stack & exploring Machine Learning**  
 - 📬 Let's connect! kanishka0411k@gmail.com
 
-## 📈 My GitHub Journey
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanishka0411&show_icons=true&theme=radical)
-
-## 🏆 Highlights & Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=kanishka0411&theme=onedark)
-
-## 📊 Activity Overview
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kanishka0411&theme=gruvbox)
 
 ## 🔗 Let's Connect
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/kanishka0411k)
