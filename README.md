@@ -28,4 +28,4 @@
 </p>
 
 ## 📊 Most Used Languages:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishka0411&layout=pie&theme=radical" style="width: 200px; height: 200px;" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishka0411&layout=pie&theme=radical" style="width: 250px; height: 250px;" alt="Top Languages" />
