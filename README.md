@@ -29,6 +29,9 @@
 
 ## 📊 Most Used Languages:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishka0411&layout=pie&theme=radical" style="width: 250px; height: 250px;" alt="Top Languages" />
-![Profile Views](https://komarev.com/ghpvc/?username=kanishka0411&label=Profile%20Views&color=blue&style=plastic)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=blue&style=plastic)
+
 
 
