@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" alt="Coding GIF" width="300" />
 </p>
-<h1 align="center">Hi, I'm Kanishka 👋</h1>
+<h1 align="center">Hi, I'm Kanishka 👋</h1>                                   ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+
 
 - 🌱 Currently learning **MERN Stack & exploring Machine Learning**
 - 📬 Let's connect! kanishka0411k@gmail.com
