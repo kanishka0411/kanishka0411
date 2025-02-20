@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" alt="Coding GIF" width="300" />
 </p>
-<h1 align="center">Hi, I'm Kanishka 👋</h1>                                                     ![Profile Views](https://komarev.com/ghpvc/?username=kanishka0411&label=Profile%20Views&color=blue&style=plastic)
+<h1 align="center">Hi, I'm Kanishka 👋</h1>                                                     <p>![Profile Views](https://komarev.com/ghpvc/?username=kanishka0411&label=Profile%20Views&color=blue&style=plastic)</p>
 
 
 - 🌱 Currently learning **MERN Stack & exploring Machine Learning**
