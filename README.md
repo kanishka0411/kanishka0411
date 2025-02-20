@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" alt="Coding GIF" width="300" />
+</p>
 <h1 align="center">Hi, I'm Kanishka 👋</h1>
 
 - 🌱 Currently learning **MERN Stack & exploring Machine Learning**  
