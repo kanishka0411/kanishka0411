@@ -1,5 +1,5 @@
 
-                                                                       # <h1> Hi, I'm Kanishka! 👋</h1>
+                                                         Hi, I'm Kanishka! 👋
 
 - 🌱 Currently learning **MERN Stack & exploring Machine Learning**  
 💡 Love working with **JavaScript, React, C++, and problem-solving**  
