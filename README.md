@@ -39,7 +39,7 @@
 ## 📅 Contributions
 ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=kanishka0411&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=kanishka0411&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=ff69b4&label=PROFILE+VIEWS)
 
 
 
