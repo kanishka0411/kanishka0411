@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" alt="Aesthetic Flowing Landscape GIF" width="700" />
+  <img src="https://media.giphy.com/media/QxkfWlf3JzMog/giphy.gif" alt="Aesthetic Flowing Nature GIF" width="700" />
 </p>
+
 
 
 <h1 align="center">Hi, I'm Kanishka 👋</h1>                                                     
