@@ -8,7 +8,7 @@
 
 
 - 🌱 Currently learning **MERN Stack & exploring Machine Learning**
-- 📬 Let's connect! kanishka0411k@gmail.com
+- 📬 Get in touch! kanishka0411k@gmail.com
 
 
 ## 🔗 Let's Connect
