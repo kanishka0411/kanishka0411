@@ -2,8 +2,8 @@
 <h1 align="center">Hi, I'm Kanishka 👋</h1>
 
 - 🌱 Currently learning **MERN Stack & exploring Machine Learning**  
-💡 Love working with **JavaScript, React, C++, and problem-solving**  
-📬 Let's connect! kanishka0411k@gmail.com
+-💡 Love working with **JavaScript, React, C++, and problem-solving**  
+-📬 Let's connect! kanishka0411k@gmail.com
 
 ## 📈 My GitHub Journey
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanishka0411&show_icons=true&theme=radical)
