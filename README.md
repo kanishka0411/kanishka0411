@@ -36,10 +36,7 @@
 ## 📊 Most Used Languages:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishka0411&layout=pie&theme=radical" style="width: 250px; height: 250px;" alt="Top Languages" />
 
-### 🐍 Contribution Snake
-
-![snake gif](https://github.com/<YOUR_GITHUB_USERNAME>/kanishka0411/blob/output/github-contribution-grid-snake.gif)
-
+![Snake animation](https://github.com/kanishka0411/kanishka0411/blob/output/github-contribution-grid-snake.svg)
 
 
 &nbsp;![Profile Views](https://komarev.com/ghpvc/?username=kanishka0411&color=blue)
