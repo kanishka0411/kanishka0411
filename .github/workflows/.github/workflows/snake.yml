@@ -17,7 +17,7 @@ jobs:
       - name: Generate Snake GIF
         uses: Platane/snk@v3
         with:
-          github_user_name: <kanishka0411>
+          github_user_name: kanishka0411
           outputs: dist/github-contribution-grid-snake.svg
 
       - name: Push Snake GIF to the output branch
