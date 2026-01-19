@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Aesthetic Flowing Colors GIF" width="500" height="250"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20my%20Profile&section=header" alt="Aesthetic Flowing Colors GIF" width="500" height="250"/>
 </p>
 
 
