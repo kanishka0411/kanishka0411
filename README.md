@@ -6,6 +6,9 @@
 
 
 <h1 align="center">Hi, I'm Kanishka 👋</h1>                                                     
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kanishka0411&color=green" />
+</p>
 
 
 - 🌱 Currently learning **MERN Stack & exploring Machine Learning**
@@ -38,7 +41,7 @@
 ## 📊 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishka0411&layout=compact)
 
-![snake gif](https://github.com/kanishka0411/kanishka0411/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
