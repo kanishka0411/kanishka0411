@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20my%20Profile&section=header" alt="Aesthetic Flowing Colors GIF" width="800" height="300"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20my%20Profile&section=header" alt="Aesthetic Flowing Colors GIF" width="800" height="280"/>
 </p>
 
 
@@ -35,11 +36,9 @@
 </p>
 
 ## 📊 Most Used Languages:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishka0411&layout=pie&theme=radical" style="width: 250px; height: 250px;" alt="Top Languages" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishka0411&layout=compact)
 
-
-
-&nbsp;![Profile Views](https://komarev.com/ghpvc/?username=kanishka0411&color=blue)
+![snake gif](https://github.com/kanishka0411/kanishka0411/blob/output/github-contribution-grid-snake.svg)
 
 
 
